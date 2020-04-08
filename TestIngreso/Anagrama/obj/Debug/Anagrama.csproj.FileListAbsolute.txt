@@ -1,0 +1,6 @@
+C:\workspace\TestIngreso\Anagrama\bin\Debug\Anagrama.dll
+C:\workspace\TestIngreso\Anagrama\bin\Debug\Anagrama.pdb
+C:\workspace\TestIngreso\Anagrama\obj\Debug\Anagrama.csprojAssemblyReference.cache
+C:\workspace\TestIngreso\Anagrama\obj\Debug\Anagrama.csproj.CoreCompileInputs.cache
+C:\workspace\TestIngreso\Anagrama\obj\Debug\Anagrama.dll
+C:\workspace\TestIngreso\Anagrama\obj\Debug\Anagrama.pdb

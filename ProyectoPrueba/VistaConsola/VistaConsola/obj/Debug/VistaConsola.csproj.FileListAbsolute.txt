@@ -1,0 +1,10 @@
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\VistaConsola\bin\Debug\VistaConsola.exe
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\VistaConsola\bin\Debug\Biblioteca.dll
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\VistaConsola\bin\Debug\Biblioteca.pdb
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\VistaConsola\obj\Debug\VistaConsola.exe
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\VistaConsola\obj\Debug\VistaConsola.pdb

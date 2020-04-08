@@ -1,0 +1,6 @@
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\Entidades\bin\Debug\Entidades.dll
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\Entidades\bin\Debug\Entidades.pdb
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\Entidades\obj\Debug\Entidades.dll
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\Entidades\obj\Debug\Entidades.pdb

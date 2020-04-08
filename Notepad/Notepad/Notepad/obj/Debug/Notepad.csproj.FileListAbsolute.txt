@@ -1,0 +1,13 @@
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\bin\Debug\IO.dll
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\bin\Debug\IO.pdb
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\obj\Debug\Notepad.FormEditor.resources
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\obj\Debug\Notepad.csproj.CopyComplete
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\Notepad\obj\Debug\Notepad.pdb

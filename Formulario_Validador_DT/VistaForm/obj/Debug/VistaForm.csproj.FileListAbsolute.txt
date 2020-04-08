@@ -1,0 +1,13 @@
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\bin\Debug\VistaForm.exe.config
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\bin\Debug\VistaForm.exe
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\bin\Debug\VistaForm.pdb
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\bin\Debug\Entidades.dll
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\bin\Debug\Entidades.pdb
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\obj\Debug\VistaForm.FormDT.resources
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\obj\Debug\VistaForm.exe
+C:\workspace\ejercicios_programacion_2\Planes.Alejandro.2C\VistaForm\obj\Debug\VistaForm.pdb

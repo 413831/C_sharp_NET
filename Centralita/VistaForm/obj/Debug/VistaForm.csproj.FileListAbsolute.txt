@@ -1,0 +1,16 @@
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\bin\Debug\VistsForm.exe.config
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\bin\Debug\VistsForm.exe
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\bin\Debug\VistsForm.pdb
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\bin\Debug\Ejercicio_40.exe
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\bin\Debug\Ejercicio_40.pdb
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\bin\Debug\Ejercicio_40.exe.config
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\obj\Debug\VistaForm.FrmMenu.resources
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\obj\Debug\VistaForm.FrmLlamador.resources
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\obj\Debug\VistaForm.FrmMostrar.resources
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\obj\Debug\VistsForm.Properties.Resources.resources
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\obj\Debug\VistsForm.exe
+C:\workspace\ejercicios_programacion_2\Ejercicio_65\VistaForm\obj\Debug\VistsForm.pdb

@@ -1,0 +1,13 @@
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\bin\Debug\formPaquetes.exe.config
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\bin\Debug\formPaquetes.exe
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\bin\Debug\formPaquetes.pdb
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\bin\Debug\Entidades.dll
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\bin\Debug\Entidades.pdb
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\obj\Debug\FrmPpal.csprojAssemblyReference.cache
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\obj\Debug\formPaquetes.Form1.resources
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\obj\Debug\formPaquetes.Properties.Resources.resources
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\obj\Debug\FrmPpal.csproj.GenerateResource.cache
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\obj\Debug\FrmPpal.csproj.CoreCompileInputs.cache
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\obj\Debug\FrmPpal.csproj.CopyComplete
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\obj\Debug\formPaquetes.exe
+C:\workspace\tp_laboratorio_2\TP4\Planes.Alejandro.2C.TP4\formPaquetes\obj\Debug\formPaquetes.pdb

@@ -1,0 +1,10 @@
+C:\workspace\TestIngreso\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\workspace\TestIngreso\VistaConsola\bin\Debug\VistaConsola.exe
+C:\workspace\TestIngreso\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\workspace\TestIngreso\VistaConsola\bin\Debug\Anagrama.dll
+C:\workspace\TestIngreso\VistaConsola\bin\Debug\Anagrama.pdb
+C:\workspace\TestIngreso\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\workspace\TestIngreso\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\workspace\TestIngreso\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\workspace\TestIngreso\VistaConsola\obj\Debug\VistaConsola.exe
+C:\workspace\TestIngreso\VistaConsola\obj\Debug\VistaConsola.pdb

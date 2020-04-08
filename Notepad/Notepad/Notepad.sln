@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad", "Notepad\Notepad.csproj", "{273D0674-DF49-4E4B-B9B8-7562B9EF952F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO", "IO\IO.csproj", "{30707FA3-5FB6-4AEC-BB29-8CD0737451BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{273D0674-DF49-4E4B-B9B8-7562B9EF952F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273D0674-DF49-4E4B-B9B8-7562B9EF952F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273D0674-DF49-4E4B-B9B8-7562B9EF952F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273D0674-DF49-4E4B-B9B8-7562B9EF952F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30707FA3-5FB6-4AEC-BB29-8CD0737451BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30707FA3-5FB6-4AEC-BB29-8CD0737451BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30707FA3-5FB6-4AEC-BB29-8CD0737451BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30707FA3-5FB6-4AEC-BB29-8CD0737451BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811C1D82-6608-4BB4-909C-95AE7A4FBBE7}
+	EndGlobalSection
+EndGlobal

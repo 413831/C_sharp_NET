@@ -1,0 +1,6 @@
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\Biblioteca\bin\Debug\Biblioteca.dll
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\Biblioteca\obj\Debug\Biblioteca.dll
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\workspace\workspace\C#_practica\ProyectoPrueba\VistaConsola\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache

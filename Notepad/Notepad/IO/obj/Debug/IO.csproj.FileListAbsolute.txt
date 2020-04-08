@@ -1,0 +1,6 @@
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\IO\bin\Debug\IO.dll
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\IO\bin\Debug\IO.pdb
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\IO\obj\Debug\IO.csprojAssemblyReference.cache
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\IO\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\IO\obj\Debug\IO.dll
+C:\workspace\ejercicios_programacion_2\Ejercicio_58\Notepad\IO\obj\Debug\IO.pdb

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Entidades.CajaAhorro">
+    <Position X="9" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAJAEAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CajaAhorro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Cliente">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAABAAQAAACEAAAAAAAAAAAAAgAEAAIABAAAAgA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Cuenta">
+    <Position X="6" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAEAAAAABAEAACAAAAAgAAAEAAAAAEAAQADAAg=</HashCode>
+      <FileName>Cuenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.CuentaCorriente">
+    <Position X="9" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAABAEAAAAEAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CuentaCorriente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Banco">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QIEAAAIEAAAAKACEAAAAEQAAAgAAAAIEAABABQACUAA=</HashCode>
+      <FileName>Banco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Entidades.Estado">
+    <Position X="7.5" Y="4.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAQAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Cuenta.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.TipoCuenta">
+    <Position X="6" Y="4.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Banco.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

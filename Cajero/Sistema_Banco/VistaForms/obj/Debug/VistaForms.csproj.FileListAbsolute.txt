@@ -1,0 +1,13 @@
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\bin\Debug\VistaForms.exe.config
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\bin\Debug\VistaForms.exe
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\bin\Debug\VistaForms.pdb
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\bin\Debug\Entidades.dll
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\bin\Debug\Entidades.pdb
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\obj\Debug\VistaForms.csprojAssemblyReference.cache
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\obj\Debug\VistaForms.Form1.resources
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\obj\Debug\VistaForms.Properties.Resources.resources
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\obj\Debug\VistaForms.csproj.GenerateResource.cache
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\obj\Debug\VistaForms.csproj.CoreCompileInputs.cache
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\obj\Debug\VistaForms.csproj.CopyComplete
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\obj\Debug\VistaForms.exe
+C:\workspace\workspace\C#_practica\Cajero\Cajero\VistaForms\obj\Debug\VistaForms.pdb
