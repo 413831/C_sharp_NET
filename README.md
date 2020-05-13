@@ -1,4 +1,4 @@
-# Proyectos de practica en C#. #
+# Proyectos de practica en C# #
 
 * Practicas en lenguaje C# .NET
 * Creación de ABM / CRUD
@@ -7,7 +7,7 @@
 * Tests unitarios
 * Integración con base de datos SQL Server
 
-## Pendientes. ##
+## Pendientes ##
 
 * Creación de instalador
 * Carpeta de ejecutables
